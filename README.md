@@ -16,13 +16,17 @@ exif: https://pypi.python.org/pypi/ExifRead
 
 1. Download and install Python 3(if your in windows remember to have it set on environment variables!)
 
-2. "pip install appJar" on cmd 
+2. ```pip install appJar``` on command line 
 
-3. "pip install exifread" on cmd as well
+3. ```pip install exifread``` on command line as well
 
 4. Open Tagser.py on python by either:
+    ```
     "python Tagser.py"
-     if on windows, right-click -> open with -> python
-
+    ```  
+   If on windows, 
+   ```
+   right-click -> open with -> python
+   ```
 5. Golden!
  
