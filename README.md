@@ -10,7 +10,7 @@ Because this is based on the exif standard, this software only works with these 
 * jpg
 * tiff
 
-### Software required:
+### Software and dependencies required:
 
 Python 3 : https://www.python.org/
 
