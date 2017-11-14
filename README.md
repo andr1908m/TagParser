@@ -1,4 +1,4 @@
-# TagParser
+# Tagser
 
 
 Image tag parser that searches and displays image files based on tags and folder chosen
