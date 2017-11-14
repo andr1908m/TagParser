@@ -9,17 +9,19 @@ Python 3 : https://www.python.org/
 
 appJar : http://appjar.info/
 
+exif: https://pypi.python.org/pypi/ExifRead
+
 
 How to run:
-1. Download and install Python 3
+1. Download and install Python 3(if your in windows remember to have it set on environment variables!)
 
-2. Download appJar 
+2. "pip install appJar" on cmd 
 
-3. Put appJar folder in the same folder as TagParser (if you clone from appJar's repo in github, just put the folder in the repo named appJar)
+3. "pip install exifread" on cmd as well
 
-4. If on windows: Right-Click, Open with: Python
+4. Open Tagser.py on python by either:
+    "python Tagser.py"
+     if on windows, right-click -> open with -> python
 
-5. If that's not there or in Mac: Open Command Line with command: python TagParser.py
-
-6. Golden!
+5. Golden!
  
