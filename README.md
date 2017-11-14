@@ -1,9 +1,16 @@
 # Tagser
 
 
-Image tag parser that searches and displays image files based on tags and folder chosen
+Python app that returns image file names based on exif tags and path specified
 
-Software required:
+### File Formats
+Because this is based on the exif standard, this software only works with these file formats:
+    
+* jpeg 
+* jpg
+* tiff
+
+### Software required:
 
 Python 3 : https://www.python.org/
 
