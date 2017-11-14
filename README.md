@@ -12,7 +12,8 @@ appJar : http://appjar.info/
 exif: https://pypi.python.org/pypi/ExifRead
 
 
-How to run:
+## How to run:
+
 1. Download and install Python 3(if your in windows remember to have it set on environment variables!)
 
 2. "pip install appJar" on cmd 
